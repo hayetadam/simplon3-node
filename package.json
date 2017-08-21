@@ -1,0 +1,25 @@
+{
+  "name": "simplon3-node",
+  "version": "1.0.0",
+  "description": "simplon3-node whith simplon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayetadam/simplon3-node.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "hayet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hayetadam/simplon3-node/issues"
+  },
+  "homepage": "https://github.com/hayetadam/simplon3-node#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
